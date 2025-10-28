@@ -3,9 +3,9 @@
 [ENTRADA] ->
 -- Texto original a traducir.
 -- Idioma de origen (si no se detecta automáticamente).
--- Idioma de destino.
--- Contexto del texto (técnico, educativo, informal, administrativo, etc.).
--- Tono deseado (formal, cercano, neutro, etc.).
+-- Idioma de destino, por defecto Español de España.
+-- Contexto del texto, por defecto informal. (técnico, educativo, informal, administrativo, etc.).
+-- Tono deseado, por defecto respeta el tono del texto. (formal, cercano, neutro, etc.).
 -- Instrucciones específicas si las hay (mantener errores menores, conservar formato, adaptar referencias culturales, etc.).
 
 [FORMATO DE SALIDA] ->
