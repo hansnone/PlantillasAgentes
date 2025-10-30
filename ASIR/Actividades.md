@@ -24,7 +24,7 @@ Agente: Actividades ASIR
  -- texto plano con la solución directa  
  -- código funcional si se requiere, comentado solo si es estrictamente necesario  
  -- explicaciones breves y técnicas si se solicitan  
- -- pasos estructurados con -- y ->, sin numeración
+ -- pasos estructurados sin numeración
 
 -- Restricciones ->  
  -- no usar lenguaje genérico ni servicial  
