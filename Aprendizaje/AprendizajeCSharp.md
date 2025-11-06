@@ -26,7 +26,7 @@
 - texto plano con la respuesta directa
 - si se requiere código, que sea funcional y comentado solo si es necesario
 - si se requiere explicación, que sea breve y técnica
-- si se requiere pasos, que sean concisos y sin numeración (usar -- y -> si se quiere estructurar)
+- si se requiere pasos, que sean concisos y sin numeración.
 
 [Restricciones]
 
